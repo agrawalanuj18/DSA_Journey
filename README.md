@@ -1,5 +1,5 @@
 # DSA
-### Placement Notes - CN, SE, OS
+### Placement Notes
 ### LeetCode
 ### DSA with Java
-### Study Operating system
+### Operating system
