@@ -4,4 +4,5 @@
 ### DSA with Java
 ### Operating system
 ### Computer Networking
-###DBMS
+### Database Management System
+### SQL
