@@ -5,4 +5,3 @@
 ### Operating system
 ### Computer Networking
 ### Database Management System
-### SQL
